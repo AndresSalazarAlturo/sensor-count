@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449334646557",
+    "project_id": "door-sensor-1722f",
+    "storage_bucket": "door-sensor-1722f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449334646557:android:1d99b2d490cf41b94d33f4",
+        "android_client_info": {
+          "package_name": "io.github.andressalazaralturo.door_sensor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUcPzY8bnouILD1BGRlxA0OTHUcsc8Bj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
